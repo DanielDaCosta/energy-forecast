@@ -28,7 +28,9 @@ docker pull docker.pkg.github.com/danieldacosta/energy-forecast/energy-forecast_
 
 You can also download it direct from the repository:
 
-```git clone https://github.com/DanielDaCosta/energy-forecast.git```
+```
+git clone https://github.com/DanielDaCosta/energy-forecast.git
+```
 
 
 # Acknowlegments & References
