@@ -1,6 +1,6 @@
 # Energy-Forecasting
 
-This repository code came from the work of (Mario Dagrada)[https://github.com/madagra/energy-ts-analysis], special thanks for the help.
+This repository code came from the work of [Mario Dagrada](https://github.com/madagra/energy-ts-analysis), special thanks for the help.
 
 The repository consists of an energy forecasting model using XGboost. The dataset consists of hourly energy consumption rates in kWh for an industrial utility over a period of around 7 months, from July 2019 to January 2020.
 
@@ -32,7 +32,7 @@ You can also download it direct from the repository:
 
 
 # Acknowlegments
-Special thanks to (Mario Dagrada Medium post)[https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff].
+Special thanks to [Mario Dagrada Medium post](https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff).
 - https://www.youtube.com/watch?v=Nm7m92sZZJA
 - https://towardsdatascience.com/containerize-your-whole-data-science-environment-or-anything-you-want-with-docker-compose-e962b8ce8ce5
 
