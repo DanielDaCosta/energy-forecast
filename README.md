@@ -31,7 +31,7 @@ You can also download it direct from the repository:
 ```git clone https://github.com/DanielDaCosta/energy-forecast.git```
 
 
-# Acknowlegments
+# Acknowlegments & References
 Special thanks to [Mario Dagrada Medium post](https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff).
 - https://www.youtube.com/watch?v=Nm7m92sZZJA
 - https://towardsdatascience.com/containerize-your-whole-data-science-environment-or-anything-you-want-with-docker-compose-e962b8ce8ce5
