@@ -6,7 +6,8 @@ def predict(model, dataset):
     model = joblib.load(model)
     dataset = pd.read_csv(dataset)
     predictions = model.predict(dataset)
-    return predictions
+    results = pd.Series(data=predictions, index=dataset.index)
+    return results
 
 
 if __name__ == "__main__":
