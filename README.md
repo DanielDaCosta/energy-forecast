@@ -1,4 +1,4 @@
-# Energy-Forecasting
+# Energy Forecasting
 
 This repository code came from the work of [Mario Dagrada](https://github.com/madagra/energy-ts-analysis), special thanks for the help.
 
