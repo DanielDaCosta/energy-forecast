@@ -34,7 +34,7 @@ git clone https://github.com/DanielDaCosta/energy-forecast.git
 
 
 # Acknowlegments & References
-Special thanks to [Mario Dagrada Medium post](https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff).
+Special thanks to Mario Dagrada [Medium post](https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff).
 
 References:
 - https://www.youtube.com/watch?v=Nm7m92sZZJA
