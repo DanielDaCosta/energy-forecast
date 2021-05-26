@@ -1,5 +1,4 @@
 # Energy Forecasting
-
 This repository code came from the work of [Mario Dagrada](https://github.com/madagra/energy-ts-analysis), special thanks for the help.
 
 The repository consists of an energy forecasting model using XGboost. The dataset consists of hourly energy consumption rates in kWh for an industrial utility over a period of around 7 months, from July 2019 to January 2020.
@@ -7,7 +6,6 @@ The repository consists of an energy forecasting model using XGboost. The datase
 The final model has an *forecasting horizon* (The number of time periods to forecast into the future) of 48 time periods which corresponds to 2 days ahead forecasting. 
 
 # Details
-
 Main techniques and terms used:
 - Trend, Seasonality
 - Stationary and Non-Stationary Time Series
@@ -19,7 +17,6 @@ Main techniques and terms used:
 The final model can be found inside ```model/```
 
 # Usage
-
 The Jupyter-Notebook, dataset and model were saved as Docker Image in GitHub Package.
 You can install the package locally:
 ```
